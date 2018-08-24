@@ -1,0 +1,64 @@
+.image-cont {
+    position: relative;
+}
+
+.img-fluid-size {
+    max-width: 100%;
+    position: relative;
+    max-height: 350px;
+    width: auto;
+    object-fit: cover;
+    margin: auto;
+}
+
+.carousel-item-custom {
+    height: 100%;
+}
+
+.carousel-parent {
+}
+
+.images-grid-row {
+    justify-content: center;
+}
+
+.images-grid {
+    position: relative;
+    width: 100%;
+    background: #784068;
+}
+
+.image-center-align {
+    text-align: center;
+    overflow: hidden;
+    font-size: 0;
+    white-space: nowrap;
+    display: flex;
+}
+
+.arrow-next{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    bottom: 20px;
+    right: 10px;
+    font-weight: bold;
+}
+.arrow-previous{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    bottom: 20px;
+    left: 10px;
+    font-weight: bold;
+}
+.parent{
+    position: relative;
+    text-align: center;
+}
+.play-store-logo{
+max-height: 150px;
+}
+.play-store-logo-tag{
+    display: inline-block;
+}
